@@ -1,10 +1,10 @@
 <p align="center"><img src="icon.png" width="200"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/iOS-15.0+-blue.svg" />
-    <img src="https://img.shields.io/badge/Xcode-13.3+-brightgreen.svg" />
-    <img src="https://img.shields.io/badge/Swift-5.5-orange.svg" />
-    <img src="https://img.shields.io/badge/SwiftUI-3.0-red.svg" />
+    <img src="https://img.shields.io/badge/iOS-16.0+-blue.svg" />
+    <img src="https://img.shields.io/badge/Xcode-14+-brightgreen.svg" />
+    <img src="https://img.shields.io/badge/Swift-5.7-orange.svg" />
+    <img src="https://img.shields.io/badge/SwiftUI-4.0-red.svg" />
 </p>
 
 # PingPong
